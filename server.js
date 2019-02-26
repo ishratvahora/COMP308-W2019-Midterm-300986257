@@ -1,3 +1,8 @@
+// Name Ishratben R. Vahora
+// Student Id 300986257
+// Author Ishrat Vahora
+// Application Midterm exam
+
 let app = require('./server/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');

@@ -1,3 +1,7 @@
+// Name Ishratben R. Vahora
+// Student Id 300986257
+// Author Ishrat Vahora
+// Application Midterm exam
 let mongoose = require('mongoose');
 
 // create a model class

@@ -1,3 +1,9 @@
+
+// Name Ishratben R. Vahora
+// Student Id 300986257
+// Author Ishrat Vahora
+// Application Midterm exam
+
 module.exports = {
   //local MongoDB deployment ->
   "URI": "mongodb://localhost/books"
